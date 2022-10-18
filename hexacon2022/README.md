@@ -1,4 +1,4 @@
-##Hexacon 2022
+##Hexacon 2022##
 
 [link to Conference](https://www.hexacon.fr)
 
