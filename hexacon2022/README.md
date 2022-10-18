@@ -3,7 +3,7 @@
 [link to Conference](https://www.hexacon.fr)
 
 
-**A journey of fuzzing Nvidia graphic driver leading to LPE exploitation**
+**A journey of fuzzing Nvidia graphic driver leading to LPE exploitation**\
 Thierry Doré
 
 **Attacking Safari in 2022**
